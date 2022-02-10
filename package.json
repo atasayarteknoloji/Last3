@@ -37,7 +37,7 @@
     "ng2-smart-table": "^1.6.0",
     "ngx-perfect-scrollbar": "^8.0.0",
     "ngx-toastr": "^10.0.4",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "pdfmake": "^0.1.65",
     "rxjs": "~6.3.3",
     "rxjs-compat": "^6.5.3",
